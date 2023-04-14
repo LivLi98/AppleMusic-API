@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "title": "Over it",
+      "artist": "Summer Walker",
+      "year": 2019
+    },
+    {
+      "id": 2,
+      "title": "2 Alive (Geek Pack)",
+      "artist": "Yeat",
+      "year": 2022
+    },
+    {
+      "id": 3,
+      "title": "thank u, next",
+      "artist": "Ariana Grande",
+      "year": 2019
+    },
+    {
+      "id": 4,
+      "title": "Colorway",
+      "artist": "Destin Conrad",
+      "year": 2021
+    },
+    {
+      "id": 5,
+      "title": "Whole Lotta Red",
+      "artist": "Playboi Carti",
+      "year": 2020
+    }
+  ]
